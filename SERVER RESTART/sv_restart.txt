@@ -1,0 +1,14 @@
+[bp]
+
+SVRESTARTDONO = ^4[ZP]^1 O^4 DONO^1:^4 %s ^1deu restart no round
+SVRESTARTSTAFF = ^4[ZP]^1 O^4 STAFF^1:^4 %s ^1deu restart no round
+
+[es]
+
+SVRESTARTDONO = ^4[ZP]^1 el^4 dueño^1:^4 %s ^1reinició la ronda
+SVRESTARTSTAFF = ^4[ZP]^1 el^4 STAFF^1:^4 %s ^1reinició la ronda
+
+[en]
+
+SVRESTARTDONO = ^4[ZP]^1 the ^4 OWNER^1:^4 %s ^1restarted the round
+SVRESTARTSTAFF = ^4[ZP]^1 the^4 STAFF^1:^4 %s ^1restarted the round
