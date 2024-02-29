@@ -1,8 +1,11 @@
 [en]
 CONNECT = ^4[ZP] ^1O player ^4%s^1 connected : ^4%s^1, ^4%s
+DISCONECT = ^4[ZP] ^1O player ^4%s^1 Disconected
 
 [es]
 CONNECT = ^4[ZP] ^1el jugador ^4%s^1 conectado : ^4%s^1, ^4%s
+DISCONECT = ^4[ZP] ^1el jugador ^4%s^1 Desconectou
 
 [bp]
 CONNECT = ^4[ZP] ^1O player ^4%s^1 connectou-se : ^4%s^1, ^4%s
+DISCONECT = ^4[ZP] ^1O player ^4%s^1 Desconectou
